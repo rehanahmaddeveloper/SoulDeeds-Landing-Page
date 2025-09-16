@@ -51,19 +51,19 @@ const Faq: React.FC = () => {
   const faqData = [
     {
       q: 'Is this really free for life?',
-      a: 'Yes, absolutely! As one of our first 30 Soul Builders, your premium access is free forever. This is our way of saying thank you for helping us build a better platform.'
+      a: 'Yes! If you’re among the first 30 to join and share feedback, you’ll never pay for premium.'
     },
     {
-      q: 'Why only 100 people?',
-      a: 'We are starting with a small, dedicated group to ensure we can listen to every piece of feedback and build a strong community foundation. This allows for a more personal and impactful development process.'
+      q: 'Why only 30 people?',
+      a: 'We want to build SoulDeeds with real, early community feedback — and keep it manageable.'
     },
     {
       q: 'What happens after I sign up?',
-      a: 'After you sign up for the waitlist, you\'ll receive a confirmation email. Once we\'re ready to onboard our Soul Builders, you\'ll get an exclusive invitation to create your profile and start experiencing the platform.'
+      a: 'You’ll get instant access, and we’ll occasionally ask for feedback to improve SoulDeeds.'
     },
     {
       q: 'Can I lose my lifetime access?',
-      a: 'Your lifetime access is yours to keep, as long as you adhere to our community guidelines. We aim to build a respectful and safe space for everyone.'
+      a: 'No, as long as you sign up now and leave at least one review, it’s yours forever.'
     }
   ];
 
